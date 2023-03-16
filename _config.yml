@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Boyu Tian's Homepage"
 title_separator          : "-"
-name                     : &name "Boyu Tian"
+name                     : &name "Boyu Tian (田博宇)"
 description              : &description "PhD student at Tsinghua University"
 url                      : https://CriusT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
