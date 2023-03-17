@@ -35,13 +35,16 @@ My research interests mainly lie in the fields of efficient memory architectures
     Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul. 2019 - Sep. 2019. 
 
 ## Teaching
-* **Teaching Assistant** 20470084 Computer Architecture - Spring 2022, Spring 2022
-* **Teaching Assistant** C++ Programming (A) - Fall 2017 
+* **Teaching Assistant** 20470084 Computer Architecture - Spring 2022, Spring 2022.
+* **Teaching Assistant** C++ Programming (A) - Fall 2017.
 
 ## Honors and Awards
-* Wuhan Outstanding Scholarship (武汉英才奖学金), 2022
-* Hui Yan Outstanding Scholarship (惠妍英才奖学金), 2021
-* Tang Lixin Scholarship (唐立新奖学金), 2018-2020
-* Outstanding Leader Scholarship of Zhiyuan College (致远杰出领袖奖学金), 2017
+* Wuhan Outstanding Scholarship (武汉英才奖学金), 2022.
+* Hui Yan Outstanding Scholarship (惠妍英才奖学金), 2021.
+* Tang Lixin Scholarship (唐立新奖学金), 2018-2020.
+* Outstanding Leader Scholarship of Zhiyuan College (致远杰出领袖奖学金), 2017.
 * Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019.
+
+## Miscellaneous
+I enjoy playing basketball in my spare time. I was the basketball team captain of IIIS, ACM Class and Zhiyuan College.
 
