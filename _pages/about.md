@@ -14,31 +14,23 @@ My research interests mainly lie in the fields of efficient memory architectures
 ## Publication
 
 * ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing   
-
     **Boyu Tian**, Qihang Chen, Mingyu Gao  
-
     *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)
 
 * FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators  
-
     Qihang Chen, **Boyu Tian**, Mingyu Gao  
-
     *ASPLOS 2022* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/fingers.asplos22.pdf)
 
 * DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing  
-
     Bohan Zhao, Xiang Li, **Boyu Tian**, Zhiyu Mei, Wenfei Wu  
-
     *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
 ## Education
 
 * **Tsinghua University**  
-
     Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/)， advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep. 2020 - present.
 
 * **Shanghai Jiao Tong University**  
-
     B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep.2016 - Jun.2020.
 
 
