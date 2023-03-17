@@ -24,7 +24,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 * **Tsinghua University**  
     Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep. 2020 - present.
 * **Shanghai Jiao Tong University**  
-    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep.2016 - Jun.2020.
+    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep.2016 - Jun.2020.
 
 ## Experiences
 * **Huawei Hisilicon**  
