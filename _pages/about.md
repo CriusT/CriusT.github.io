@@ -33,7 +33,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul. 2019 - Sep. 2019. 
 
 ## Teaching
-* **Teaching Assistant** 20470084 Computer Architecture - Spring 2022, Spring 2022.
+* **Teaching Assistant** 20470084 Computer Architecture - Spring 2021, Spring 2022.
 * **Teaching Assistant** C++ Programming (A) - Fall 2017.
 
 ## Honors and Awards
