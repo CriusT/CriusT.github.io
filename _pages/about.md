@@ -15,7 +15,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)/[Talk](https://youtu.be/lSNQXqqfdt8)
 * **FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators**  
     Qihang Chen, *Boyu Tian*, Mingyu Gao  
-    *ASPLOS 2022* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/fingers.asplos22.pdf)
+    *ASPLOS 2022* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/fingers.asplos22.pdf)/[Talk](https://www.youtube.com/watch?v=_2WeQuFpMFE)
 * **DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing**  
     Bohan Zhao, Xiang Li, *Boyu Tian*, Zhiyu Mei, Wenfei Wu  
     *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
