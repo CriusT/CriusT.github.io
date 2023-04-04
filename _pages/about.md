@@ -12,7 +12,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 ## Publications
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
     *Boyu Tian*, Qihang Chen, Mingyu Gao  
-    *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)
+    *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)/[Talk](https://youtu.be/lSNQXqqfdt8)
 * **FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators**  
     Qihang Chen, *Boyu Tian*, Mingyu Gao  
     *ASPLOS 2022* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/fingers.asplos22.pdf)
