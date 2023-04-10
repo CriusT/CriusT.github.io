@@ -38,8 +38,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 
 ## Honors and Awards
 * ASPLOS 2023 Student Travel Award, 2023.
-* Wuhan Outstanding Scholarship (武汉英才奖学金), 2022.
-* Hui Yan Outstanding Scholarship (惠妍英才奖学金), 2021.
+* Comprehensive Outstanding Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022.
 * Tang Lixin Scholarship (唐立新奖学金), 2018-2020.
 * Outstanding Leader Scholarship of Zhiyuan College (致远杰出领袖奖学金), 2017.
 * Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019.
