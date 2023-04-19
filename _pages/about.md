@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in the fields of efficient memory architectures and scalable data processing. I am currently focusing on architectures that follow the Near-Data Processing paradigm. 
 
+You can download my CV [here](https://CriusT.github.io/files/boyu_cv_2304.pdf).
+
 ## Publications
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
     *Boyu Tian*, Qihang Chen, Mingyu Gao  
