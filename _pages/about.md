@@ -22,15 +22,17 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 
 ## Education
 * **Tsinghua University**  
-    Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep. 2020 - present.
+    Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present.
 * **Shanghai Jiao Tong University**  
-    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep.2016 - Jun.2020.
+    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020.
 
 ## Experiences
+* **Alibaba DAMO Academy** 
+    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.  Jun 2023 - present.
 * **Huawei Hisilicon**  
-    Research intern in Turing Department. Oct.2019 - Dec. 2019.
+    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019.
 * **Duke University**  
-    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul. 2019 - Sep. 2019. 
+    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019. 
 
 ## Teaching
 * **Teaching Assistant** 20470084 Computer Architecture - Spring 2021, Spring 2022.
