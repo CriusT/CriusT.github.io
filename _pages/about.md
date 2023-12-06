@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in the fields of efficient memory architectures and scalable data processing. I am currently focusing on architectures that follow the Near-Data Processing paradigm. Here is my [CV](https://CriusT.github.io/files/boyu_cv_2304.pdf).
+I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in the fields of efficient memory architectures and scalable data processing. I am currently focusing on memory-centric architecture designs such as near-data processing, memory pooling, and memory disaggregation. Here is my [CV](https://CriusT.github.io/files/boyu_cv_2304.pdf).
 
 ## Publications
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
@@ -39,8 +39,8 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 * **Teaching Assistant** C++ Programming (A) - Fall 2017.
 
 ## Honors and Awards
+* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023.
 * ASPLOS 2023 Student Travel Award, 2023.
-* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022.
 * Tang Lixin Scholarship (唐立新奖学金), 2018-2020.
 * Outstanding Leader Scholarship of Zhiyuan College (致远杰出领袖奖学金), 2017.
 * Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019.
