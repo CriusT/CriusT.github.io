@@ -28,7 +28,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 
 ## Experiences
 * **Alibaba DAMO Academy**  
-    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - present.
+    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024.
 * **Huawei Hisilicon**  
     Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019.
 * **Duke University**  
