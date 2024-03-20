@@ -12,12 +12,12 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 ## Publications
 * **NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures**  
     *Boyu Tian*, Yiwei Li, Li Jiang, Shuangyu Cai, Mingyu Gao  
-    *ISCA 2024* (*To Appear*)  
+    *ISCA 2024* (*To Appear*)
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
     *Boyu Tian*, Qihang Chen, Mingyu Gao  
     *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)/[Talk](https://youtu.be/lSNQXqqfdt8)
 * **PimPam: Efficient Graph Pattern Matching on Real Processing-in-Memory Hardware**
-    Shuangyu Cai, *Boyu Tian*, Mingyu Gao
+    Shuangyu Cai, *Boyu Tian*, Mingyu Gao  
     *SIGMOD 2024* (*To Appear*)
 * **FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators**  
     Qihang Chen, *Boyu Tian*, Mingyu Gao  
@@ -33,7 +33,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020.
 
 ## Experiences
-* **Zhipu AI**
+* **Zhipu AI**  
     Research intern, working on LLM inference acceleration. Mentor: Dr. Guanyu Feng. Mar 2024 - present.
 * **Alibaba DAMO Academy**  
     Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024.
