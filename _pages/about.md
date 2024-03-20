@@ -10,9 +10,9 @@ redirect_from:
 I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in eﬀicient memory architectures and scalable data processing, with a focus on memory-centric designs like near-data processing, memory pooling, and memory disaggregation. Additionally, I explore memory system optimizations for key workloads like deep learning and graph processing.Here is my [CV](https://CriusT.github.io/files/boyu_cv_2402.pdf).
 
 ## Publications
-* **NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures**
-    *Boyu Tian*, Yiwei Li, Li Jiang, Shuangyu Cai, Mingyu Gao
-    *ISCA 2024* (*To Appear*)
+* **NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures**  
+    *Boyu Tian*, Yiwei Li, Li Jiang, Shuangyu Cai, Mingyu Gao  
+    *ISCA 2024* (*To Appear*)  
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
     *Boyu Tian*, Qihang Chen, Mingyu Gao  
     *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)/[Talk](https://youtu.be/lSNQXqqfdt8)
