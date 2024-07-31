@@ -12,13 +12,19 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 ## Publications
 * **NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures**  
     **Boyu Tian**, Yiwei Li, Li Jiang, Shuangyu Cai, Mingyu Gao  
-    *ISCA 2024* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ndpbridge.isca24.pdf) (*To Appear*)
+    *ISCA 2024* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ndpbridge.isca24.pdf)
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
     **Boyu Tian**, Qihang Chen, Mingyu Gao  
     *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)/[Talk](https://youtu.be/lSNQXqqfdt8)
+* **Stream-Based Data Placement for Near-Data Processing with Extended Memory**  
+    Yiwei Li, **Boyu Tian**, Yi Ren, Mingyu Gao  
+    *MICRO 2024* (*To Appear*)
 * **PimPam: Efficient Graph Pattern Matching on Real Processing-in-Memory Hardware**
     Shuangyu Cai, **Boyu Tian**, Mingyu Gao  
     *SIGMOD 2024* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/pimpam.sigmod24.pdf)
+* **Trimma: Trimming Metadata Storage and Latency for Hybrid Memory Systems**  
+    Yiwei Li, **Boyu Tian**, Mingyu Gao  
+    *PACT 2024* (*To Appear*)
 * **FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators**  
     Qihang Chen, **Boyu Tian**, Mingyu Gao  
     *ASPLOS 2022* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/fingers.asplos22.pdf)/[Talk](https://www.youtube.com/watch?v=_2WeQuFpMFE)
