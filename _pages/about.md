@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in eﬀicient memory architectures and scalable data processing, with a focus on memory-centric designs like near-data processing, memory pooling, and memory disaggregation. Additionally, I explore memory system optimizations for key workloads like large language model inference and graph processing.Here is my [CV](https://CriusT.github.io/files/boyu_cv_2403.pdf)/[中文简历](https://CriusT.github.io/files/boyu_CV_Chinese_2403.pdf).
+I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in eﬀicient memory architectures and scalable data processing, with a focus on memory-centric designs like near-data processing, memory pooling, and memory disaggregation. Additionally, I explore memory system optimizations for key workloads like large language model inference and graph processing.Here is my [CV](https://CriusT.github.io/files/boyu_CV_English_2408.pdf)/[中文简历](https://CriusT.github.io/files/boyu_CV_Chinese_2408.pdf).
 
 ## Publications
 * **NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures**  
@@ -40,7 +40,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 
 ## Experiences
 * **Zhipu AI**  
-    Research intern, working on LLM inference acceleration. Mentor: Dr. Guanyu Feng. Mar 2024 - present.
+    Research intern, working on LLM inference acceleration. Mentor: Dr. Guanyu Feng. Mar 2024 - Aug 2024.
 * **Alibaba DAMO Academy**  
     Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024.
 * **Huawei Hisilicon**  
