@@ -33,31 +33,50 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
 ## Education
-* **Tsinghua University**  
-    Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present.
-* **Shanghai Jiao Tong University**  
-    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020.
+* **<p style="text-align:left;">Tsinghua University**<span style="float:right;">Sep 2020 - present </span></p> Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). 
+
+* **<p style="text-align:left;">Shanghai Jiao Tong University**<span style="float:right;">Sep 2016 - Jun 2020. </span></p> B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). 
+
+<!-- * **Tsinghua University**  
+    Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present. -->
+<!-- * **Shanghai Jiao Tong University**  
+    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020. -->
 
 ## Experiences
-* **Zhipu AI** (Mar 2024 - Aug 2024)  
+* **<p style="text-align:left;">Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span></p> Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
+
+* **<p style="text-align:left;">Alibaba DAMO Academy**<span style="float:right;">Mar 2024 - Aug 2024 </span></p>Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
+
+* **<p style="text-align:left;">Huawei Hisilicon**<span style="float:right;">Oct 2019 - Dec 2019 </span></p>Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
+
+* **<p style="text-align:left;">Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span></p>Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
+
+<!-- * **Zhipu AI** Mar 2024 - Aug 2024   
     Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
 * **Alibaba DAMO Academy**  
-    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024.
-* **Huawei Hisilicon**  
-    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019.
-* **Duke University**  
-    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019. 
+    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024. -->
+<!-- * **Huawei Hisilicon**  
+    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
+<!-- * **Duke University**  
+    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019.  -->
 
 ## Teaching
 * **Teaching Assistant** 20470084 Computer Architecture - Spring 2021, Spring 2022.
 * **Teaching Assistant** C++ Programming (A) - Fall 2017.
 
 ## Honors and Awards
-* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023.
-* ASPLOS 2023 Student Travel Award, 2023.
+
+* **<p style="text-align:left;"> Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金)**<span style="float:right;">2021, 2022, 2023
+* **<p style="text-align:left;"> ASPLOS 2023 Student Travel Award**<span style="float:right;">2023
+* **<p style="text-align:left;">  Tang Lixin Scholarship (唐立新奖学金)**<span style="float:right;"> 2018 - 2020
+* **<p style="text-align:left;"> Zhiyuan Outstanding Leader Scholarship (致远杰出领袖奖学金)**<span style="float:right;"> 2017
+* **<p style="text-align:left;"> Zhiyuan Honorary Scholarship (致远荣誉奖学金)**<span style="float:right;"> 2016 - 2019
+
+<!-- * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023. -->
+<!-- * ASPLOS 2023 Student Travel Award, 2023.
 * Tang Lixin Scholarship (唐立新奖学金), 2018-2020.
 * Outstanding Leader Scholarship of Zhiyuan College (致远杰出领袖奖学金), 2017.
-* Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019.
+* Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019. -->
 
 ## Miscellaneous
 I enjoy playing basketball in my spare time. I was the basketball team captain of IIIS, ACM Class and Zhiyuan College.
