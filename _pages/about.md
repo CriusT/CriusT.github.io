@@ -43,13 +43,13 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020. -->
 
 ## Experiences
-* **<p style="text-align:left;">Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span></p> Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
+* **Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span></p> Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
 
-* **<p style="text-align:left;">Alibaba DAMO Academy**<span style="float:right;">Mar 2024 - Aug 2024 </span></p>Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
+* **Alibaba DAMO Academy**<span style="float:right;">Mar 2024 - Aug 2024 </span></p>Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
 
-* **<p style="text-align:left;">Huawei Hisilicon**<span style="float:right;">Oct 2019 - Dec 2019 </span></p>Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
+* **Huawei Hisilicon**<span style="float:right;">Oct 2019 - Dec 2019 </span></p>Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
 
-* **<p style="text-align:left;">Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span></p>Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
+* **Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span></p>Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
 
 <!-- * **Zhipu AI** Mar 2024 - Aug 2024   
     Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
@@ -66,11 +66,11 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 
 ## Honors and Awards
 
-* **<p style="text-align:left;"> Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金)**<span style="float:right;">2021, 2022, 2023
-* **<p style="text-align:left;"> ASPLOS 2023 Student Travel Award**<span style="float:right;">2023
-* **<p style="text-align:left;">  Tang Lixin Scholarship (唐立新奖学金)**<span style="float:right;"> 2018 - 2020
-* **<p style="text-align:left;"> Zhiyuan Outstanding Leader Scholarship (致远杰出领袖奖学金)**<span style="float:right;"> 2017
-* **<p style="text-align:left;"> Zhiyuan Honorary Scholarship (致远荣誉奖学金)**<span style="float:right;"> 2016 - 2019
+* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金)<span style="float:right;">2021, 2022, 2023
+* ASPLOS 2023 Student Travel Award<span style="float:right;">2023
+* Tang Lixin Scholarship (唐立新奖学金)<span style="float:right;">2018 - 2020  
+* Zhiyuan Outstanding Leader Scholarship (致远杰出领袖奖学金)<span style="float:right;"> 2017
+* Zhiyuan Honorary Scholarship (致远荣誉奖学金)<span style="float:right;"> 2016 - 2019
 
 <!-- * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023. -->
 <!-- * ASPLOS 2023 Student Travel Award, 2023.
