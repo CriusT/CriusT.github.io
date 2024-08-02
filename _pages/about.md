@@ -72,17 +72,17 @@ Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yi
 
 ## Honors and Awards
 
-* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金)<span style="float:right;">2021, 2022, 2023</span>  
+<!-- * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金)<span style="float:right;">2021, 2022, 2023</span>  
 * ASPLOS 2023 Student Travel Award<span style="float:right;">2023</span>  
 * Tang Lixin Scholarship (唐立新奖学金)<span style="float:right;">2018 - 2020</span>  
 * Zhiyuan Outstanding Leader Scholarship (致远杰出领袖奖学金)<span style="float:right;">2017</span>  
-* Zhiyuan Honorary Scholarship (致远荣誉奖学金)<span style="float:right;">2016 - 2019</span>  
+* Zhiyuan Honorary Scholarship (致远荣誉奖学金)<span style="float:right;">2016 - 2019</span>   -->
 
-<!-- * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023. -->
-<!-- * ASPLOS 2023 Student Travel Award, 2023.
+* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023. -->
+* ASPLOS 2023 Student Travel Award, 2023.
 * Tang Lixin Scholarship (唐立新奖学金), 2018-2020.
 * Outstanding Leader Scholarship of Zhiyuan College (致远杰出领袖奖学金), 2017.
-* Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019. -->
+* Zhiyuan Honorary Scholarship (致远荣誉奖学金), 2016-2019.
 
 ## Miscellaneous
 I enjoy playing basketball in my spare time. I was the basketball team captain of IIIS, ACM Class and Zhiyuan College.
