@@ -39,7 +39,7 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020.
 
 ## Experiences
-*  <p style="text-align: left;"> **Zhipu AI** </p><p style="text-align: right;">Mar 2024 - Aug 2024</p>     
+* <p style="text-align:left;">Zhipu AI<span style="float:right;">Mar 2024 - Aug 2024</span></p>
     Research intern, working on LLM inference acceleration. Mentor: Dr. Guanyu Feng. Mar 2024 - Aug 2024.
 * **Alibaba DAMO Academy**  
     Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024.
