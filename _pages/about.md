@@ -33,10 +33,10 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
 ## Education
-* **Tsinghua University**<span style="float:right;">Sep 2020 - present. </span>  
+* **Tsinghua University**<span style="float:right;">Sep 2020 - present </span>  
 Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). 
 
-* **Shanghai Jiao Tong University**<span style="float:right;">Sep 2016 - Jun 2020. </span>  
+* **Shanghai Jiao Tong University**<span style="float:right;">Sep 2016 - Jun 2020 </span>  
 B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). 
 
 <!-- * **Tsinghua University**  
@@ -48,7 +48,7 @@ B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), 
 * **Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span>  
 Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
 
-* **Alibaba DAMO Academy**<span style="float:right;">Mar 2024 - Aug 2024 </span>  
+* **Alibaba DAMO Academy**<span style="float:right;">Jun 2023 - Jan 2024 </span>  
 Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
 
 * **Huawei Hisilicon**<span style="float:right;">Oct 2019 - Dec 2019 </span>  
