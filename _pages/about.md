@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, I obtained a bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests mainly lie in eﬀicient memory architectures and scalable data processing, with a focus on memory-centric designs like near-data processing, memory pooling, and memory disaggregation. Additionally, I explore memory system optimizations for key workloads like large language model inference and graph processing.Here is my [CV](https://CriusT.github.io/files/boyu_CV_English_2408.pdf)/[中文简历](https://CriusT.github.io/files/boyu_CV_Chinese_2408.pdf).
+I am a computer systems researcher currently working at a stealth startup developing innovative LLM infrastructure. I received my Ph.D. from the [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Prior to joining Tsinghua, I earned my bachelor's degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+
+My research interests span diverse areas within computer systems. I am currently focusing on efficient, scalable and reliable infrastructure for the full lifecycle of AI agents. My Ph.D. research specialized in memory-centric architecture design, exploring innovative approaches such as near-data processing, memory pooling, and memory disaggregation to optimize system performance and energy efficiency. 
+
+
 
 ## Publications
 * **NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures**  
@@ -16,15 +20,18 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
 * **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing**  
     **Boyu Tian**, Qihang Chen, Mingyu Gao  
     *ASPLOS 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf)/[Talk](https://youtu.be/lSNQXqqfdt8)
+* **ANSMET: Approximate Nearest Neighbor Search with Near-Memory Processing and Hybrid Early Termination**, 
+    Yiwei Li, Yuxin Jin, **Boyu Tian**, Huanchen Zhang, Mingyu Gao
+    *ISCA 2025* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ansmet.isca25.pdf)
 * **Stream-Based Data Placement for Near-Data Processing with Extended Memory**  
     Yiwei Li, **Boyu Tian**, Yi Ren, Mingyu Gao  
-    *MICRO 2024* (*To Appear*)
+    *MICRO 2024* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ndpext.micro24.pdf)
 * **PimPam: Efficient Graph Pattern Matching on Real Processing-in-Memory Hardware**
     Shuangyu Cai, **Boyu Tian**, Mingyu Gao  
     *SIGMOD 2024* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/pimpam.sigmod24.pdf)
 * **Trimma: Trimming Metadata Storage and Latency for Hybrid Memory Systems**  
     Yiwei Li, **Boyu Tian**, Mingyu Gao  
-    *PACT 2024* (*To Appear*)
+    *PACT 2024* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/trimma.pact24.pdf)
 * **FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators**  
     Qihang Chen, **Boyu Tian**, Mingyu Gao  
     *ASPLOS 2022* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/fingers.asplos22.pdf)/[Talk](https://www.youtube.com/watch?v=_2WeQuFpMFE)
@@ -33,16 +40,12 @@ I am a Ph.D. student in [Institute for Interdisciplinary Information Science (II
     *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
 ## Education
-* **Tsinghua University**<span style="float:right;">Sep 2020 - present </span>  
+* **Tsinghua University**<span style="float:right;">Sep 2020 - Jun 2025 </span>  
 Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). 
 
 * **Shanghai Jiao Tong University**<span style="float:right;">Sep 2016 - Jun 2020 </span>  
 B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). 
 
-<!-- * **Tsinghua University**  
-    Ph.D. student in [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present. -->
-<!-- * **Shanghai Jiao Tong University**  
-    B.Eng. in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), advised by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/). Sep 2016 - Jun 2020. -->
 
 ## Experiences
 * **Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span>  
@@ -57,26 +60,12 @@ Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
 * **Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span>  
 Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
 
-<!-- * **Zhipu AI** Mar 2024 - Aug 2024   
-    Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
-* **Alibaba DAMO Academy**  
-    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024. -->
-<!-- * **Huawei Hisilicon**  
-    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
-<!-- * **Duke University**  
-    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019.  -->
 
 ## Teaching
 * **Teaching Assistant** 20470084 Computer Architecture - Spring 2021, Spring 2022.
 * **Teaching Assistant** C++ Programming (A) - Fall 2017.
 
 ## Honors and Awards
-
-<!-- * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金)<span style="float:right;">2021, 2022, 2023</span>  
-* ASPLOS 2023 Student Travel Award<span style="float:right;">2023</span>  
-* Tang Lixin Scholarship (唐立新奖学金)<span style="float:right;">2018 - 2020</span>  
-* Zhiyuan Outstanding Leader Scholarship (致远杰出领袖奖学金)<span style="float:right;">2017</span>  
-* Zhiyuan Honorary Scholarship (致远荣誉奖学金)<span style="float:right;">2016 - 2019</span>   -->
 
 * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2021, 2022, 2023. 
 * ASPLOS 2023 Student Travel Award, 2023.
